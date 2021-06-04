@@ -1,4 +1,4 @@
-git statusimport moment from 'moment';
+import moment from 'moment';
 
 let mockedTime;
 
